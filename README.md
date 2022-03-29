@@ -1,7 +1,7 @@
 # Nutritional-Facts-API
 🍔🥗 an API that gives information about food ( Protein, Fat and Carbohydrate per 100g) 🍔🥗
 ## very easy to use:
-url for localhost = localhost:port/food-info/<foodname>
+url for localhost = localhost:port/food-info/foodname
   
 it has only this route and it is a GET method.
   
